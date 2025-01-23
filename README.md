@@ -8,5 +8,5 @@ userResourcesLocation https://inglan2.github.io/uRun/urun.js
 ```
 with 
 ```
-userResourcesLocation https://nasa306.github.io/Alternate-Urun/urun.js
+userResourcesLocation https://raw.githubusercontent.com/nasa306/Alternate-Urun/refs/heads/main/urun.js
 ```
