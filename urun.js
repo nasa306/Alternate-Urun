@@ -3,7 +3,7 @@ document.addEventListener("keydown", function (e) {
 	if (e.key == "~" && e.ctrlKey) {
 		var t = window.open("", "_blank", "width=500,height=300");
 		var e = t.document.createElement("iframe");
-		(e.src = "https://nasa306.github.io/Alternate-Urun/Popup.html"),
+		(e.src = "https://raw.githubusercontent.com/nasa306/Alternate-Urun/refs/heads/main/Popup.html"),
 			(e.style.cssText = "width:100%; height:100%; border:none;"),
 			t.document.body.appendChild(e),
 			t.document.title = "uRun",
